@@ -1,0 +1,23 @@
+Author: Adrian Nyakundi
+
+Title: Photography project
+
+About:This project is a web-based application
+ designed to showcase photography work. It features
+  a clean layout with images.
+  We basically take clients demands and always deliver 
+  according to their needs.
+
+  Project setup: the whole skeleton is basically in index.html and the 
+  editing i did it via the style.css which i linked them with the code
+  link rel="stylesheet" href="./style.css" / 
+  Then started with the header but instead of using a normal background I 
+  inserted a picture to make it more appeling.background-image: url(yeah.avif);
+  Then moved on to the navigation bar and placed links to My Story Sessions, 
+  showcase, Team, contact us
+  I the went ahead and inserted necessary information in the respective sections.
+  for the images i just inserted them with the link img src="old lady.jpeg" alt="old"
+  I also included a section where new clients could contact us and give us feedback.
+  Then also placed the copywrite and ended with the team and their pictures.
+
+  copywrite:© Copyright 2026 - All Rights Reserved
